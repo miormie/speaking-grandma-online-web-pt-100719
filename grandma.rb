@@ -20,12 +20,6 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase.downcase
 return "HUH?! SPEAK UP, SONNY!"
 
-else 
-  
-return "NO, NOT SINCE 1938!"
-
-
-
 
  end 
 end 
