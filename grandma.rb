@@ -21,7 +21,7 @@ elsif phrase.downcase
 return "HUH?! SPEAK UP, SONNY!"
 
 else 
-  phrase.upcase
+  
 return "NO, NOT SINCE 1938!"
 
 
